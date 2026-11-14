@@ -1,3 +1,15 @@
+---
+name: "Homework 5: Bigfoot Reports"
+tools: [Python, Pandas, Altair, Vega-Lite]
+description: Exploring seasonal patterns and weather conditions in Bigfoot reports.
+permalink: /projects/bigfoot-hw5/
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
+---
+
 # Homework 5: Exploring Bigfoot Reports
 
 For this assignment, I looked at when Bigfoot reports were made and
